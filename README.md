@@ -1,1 +1,2 @@
-# Ml-Projects
+### Customer Churn Prediction
+This project aims to predict customer churn for a bank using the Churn Modelling dataset. The project involves data cleaning, exploratory data analysis, feature selection, model selection and evaluation, and model deployment. The objective is to identify factors contributing to customer attrition and take proactive measures to retain customers and improve satisfaction.
